@@ -1,14 +1,14 @@
 
-|![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Warning.svg/156px-Warning.svg.png) | Deis Workflow will soon no longer be maintained.<br />Please [read the announcement](https://deis.com/blog/2017/deis-workflow-final-release/) for more detail. |
+|![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Warning.svg/156px-Warning.svg.png) | Deis Workflow will soon no longer be maintained.<br />Please [read the announcement](https://deis.cc/blog/2017/deis-workflow-final-release/) for more detail. |
 |---:|---|
 | 09/07/2017 | Deis Workflow [v2.18][] final release before entering maintenance mode |
 | 03/01/2018 | End of Workflow maintenance: critical patches no longer merged |
 
 # Deis Registry v2
 
-[![Build Status](https://ci.deis.io/job/registry/badge/icon)](https://ci.deis.io/job/registry)
-[![Go Report Card](https://goreportcard.com/badge/github.com/deis/registry)](https://goreportcard.com/report/github.com/deis/registry)
-[![Docker Repository on Quay](https://quay.io/repository/deisci/registry/status "Docker Repository on Quay")](https://quay.io/repository/deisci/registry)
+[![Build Status](https://ci.deis.cc/job/registry/badge/icon)](https://ci.deis.cc/job/registry)
+[![Go Report Card](https://goreportcard.com/badge/github.com/deiscc/registry)](https://goreportcard.com/report/github.com/deiscc/registry)
+[![Docker Repository on Quay](https://quay.io/repository/deiscc/registry/status "Docker Repository on Quay")](https://quay.io/repository/deiscc/registry)
 
 
 Deis (pronounced DAY-iss) is an open source PaaS that makes it easy to deploy and manage
@@ -65,6 +65,6 @@ To deploy the image via patching the registry deployment run:
 $ make deploy
 ```
 
-[issues]: https://github.com/deisthree/registry/issues
-[prs]: https://github.com/deisthree/registry/pulls
-[v2.18]: https://github.com/deisthree/workflow/releases/tag/v2.18.0
+[issues]: https://github.com/deiscc/registry/issues
+[prs]: https://github.com/deiscc/registry/pulls
+[v2.18]: https://github.com/deiscc/workflow/releases/tag/v2.18.0
